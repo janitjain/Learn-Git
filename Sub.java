@@ -3,7 +3,7 @@ public class Sub
     {
 	    int a=10;
 		int b=20;
-		System.out.println("Sub is"+(a-b));		
+		System.out.println("Subtraction is"+(a-b));		
 	
 	}
 
